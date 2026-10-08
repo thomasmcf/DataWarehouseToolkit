@@ -1,1 +1,5 @@
-﻿Store Number,Store Name,Store Postcode,Store Region,Has Bakery,Has Cafe,Has Deli
+﻿StoreKey,StoreName,StorePostcode,StoreRegion,HasBakery,HasCafe,HasDeli
+1,Stepney Green,E1 4UJ,London,Bakery,Cafe,Deli
+2,Mile End,E1 4AA,London,Bakery,Cafe,No Deli
+3,Monument,EC3M 1AE,London,No Bakery,Cafe,No Deli
+4,Bethnal Green,E2 0AN,London,No Bakery,No Café,No Deli
